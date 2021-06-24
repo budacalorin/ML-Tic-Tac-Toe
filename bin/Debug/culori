@@ -1,0 +1,28 @@
+
+////////////////////////////////////////////////////
+
+#define culoare_chenar sf::Color(52,64,85)
+#define culoare_text sf::Color(251,251,251)
+#define culoare_text_selectat sf::Color(239,121,138)
+#define culoare_X sf::Color(126,168,190)
+#define culoare_O sf::Color(251,251,251)
+#define culoare_fundal sf::Color(40,41,39)
+#define culoare_bara_win sf::Color(239,121,138)
+
+////////////////////////////////////////////////////////////////
+#define culoare_chenar sf::Color(241,156,121)
+#define culoare_text sf::Color(241,156,121)
+#define culoare_text_selectat sf::Color(164,74,63)
+#define culoare_X sf::Color(244,208,111)
+#define culoare_O sf::Color(203,223,189)
+#define culoare_fundal sf::Color(246,244,210)
+#define culoare_bara_win sf::Color(164,74,63)
+
+/////////////////////////////////////////////////////////////////
+#define culoare_chenar sf::Color(184,184,209)
+#define culoare_text sf::Color(255,255,255)
+#define culoare_text_selectat sf::Color(255,107,108)
+#define culoare_X sf::Color(255,193,69)
+#define culoare_O sf::Color(255,255,255)
+#define culoare_fundal sf::Color(133,124,141)
+#define culoare_bara_win sf::Color(255,107,108)

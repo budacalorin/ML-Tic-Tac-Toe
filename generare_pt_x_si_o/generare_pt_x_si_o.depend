@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553238083 source:c:\informatica\probleme\generare_pt_x_si_o\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1553384551 source:c:\informatica\probleme\x si o 2.0 ai\generare_pt_x_si_o\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1553384552 source:c:\informatica\old informatica\sfml\x si o final version\generare_pt_x_si_o\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
